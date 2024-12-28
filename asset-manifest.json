@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/RohanlalGudivada/Portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/RohanlalGudivada/Portfolio/static/js/main.fdf52c64.js",
+    "static/js/488.f9e4b10a.chunk.js": "/RohanlalGudivada/Portfolio/static/js/488.f9e4b10a.chunk.js",
+    "static/media/rohan.png": "/RohanlalGudivada/Portfolio/static/media/rohan.e4e87edfad05d81d3dc1.png",
+    "static/media/Emb.pdf": "/RohanlalGudivada/Portfolio/static/media/Emb.99574b89b95fcbb27274.pdf",
+    "static/media/resume.pdf": "/RohanlalGudivada/Portfolio/static/media/resume.b871bace14a238727dc1.pdf",
+    "index.html": "/RohanlalGudivada/Portfolio/index.html",
+    "main.e6c13ad2.css.map": "/RohanlalGudivada/Portfolio/static/css/main.e6c13ad2.css.map",
+    "main.fdf52c64.js.map": "/RohanlalGudivada/Portfolio/static/js/main.fdf52c64.js.map",
+    "488.f9e4b10a.chunk.js.map": "/RohanlalGudivada/Portfolio/static/js/488.f9e4b10a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fdf52c64.js"
+  ]
+}
