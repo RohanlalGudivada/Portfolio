@@ -69,7 +69,7 @@ For more details, check out the [Projects](https://rohanlalgudivada.github.io/Po
 ## 📬 Contact
 Feel free to reach out to me:
 - **GitHub**: [@RohanlalGudivada](https://github.com/RohanlalGudivada)
-- **Email**: nusvarma@gmail.com
+- **Email**: rohanlalgudivada4@gmail.com
 
 ---
 
