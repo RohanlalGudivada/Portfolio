@@ -14,14 +14,18 @@ const Skills = ({ darkMode, toggleDarkMode }) => {
     });
 
     const skills = [
-        { name: 'React', img: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg', projects: ['Portfolio Website','Food Recipe Website'] },
+        { name: 'React JS', img: 'https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg', projects: ['Portfolio Website','Food Recipe Website'] },
         { name: 'Python', img: 'https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg', projects: ['Brain Tumor Prediction', 'Recommender Smart Cart'] },
         { name: 'Scikit-learn', img: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg', projects: ['Brain Tumor Prediction', 'Multimodal Emotion Recognition'] },
         { name: 'HTML', img: 'https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg', projects: ['Basic E-Commerce Website'] },
         { name: 'CSS', img: 'https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg', projects: ['Portfolio Website'] },
         { name: 'SQL', img: 'https://cdn.intuji.com/2023/10/MySQL.png', projects: ['GRE Analyzer'] },
         { name: 'Machine Learning ', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKOHmjOEnOaDlgNxVrEyTMf_wGF0Bk9cdng&s', projects: ['Brain Tumor Prediction','Recommender Smart Cart'] },
-        { name: 'API ', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3hiOVTxIPxn1lOXDtmK5pzt0lu5UojwLjA&s', projects: ['Food Recipe Website'] }
+        { name: 'API ', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3hiOVTxIPxn1lOXDtmK5pzt0lu5UojwLjA&s', projects: ['Food Recipe Website'] },
+        { name: 'Node JS', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQrVFvoSObvpalOkOe7l24pzWpnY9BctpHg&s', projects: [''] },
+        { name: 'Express JS', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKbCcgVI4QzrMXeFVqJkudx44zCwzuyYFTQ&s', projects: [''] },
+        { name: 'MONGO DB', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz3PAEJZKEsqwwkY935c7AhS1dHKBx2HLOg&shttps://cdn.intuji.com/2023/10/MySQL.png', projects: [''] }
+        
     ];
 
     const styles = {

@@ -348,11 +348,11 @@ const Projects = ({darkMode,toggleDarkMode}) => {
             <Button
                 variant="contained"
                 color="primary"
-                href="https://github.com/RohanlalGudivada/Brain_Tumor_Classification"
+                href="https://github.com/RohanlalGudivada/Food_Recipe_Website"
                 target="_blank"
                 style={styles.githubButton}
             >
-                View on GitHub (SOON)
+                View on GitHub
             </Button>
         </div>
         

@@ -100,10 +100,36 @@ const EducationExperience = ({darkMode,toggleDarkMode}) => {
                         CGPA: 8.67 (2021 - Present, Expected Graduation: June 2025)
                     </div>
                 </div>
+
+
+                <div style={styles.card}>
+                    <h1 style={styles.title}>Experience</h1>
+
+                    <div style={styles.item}>
+                        <strong style={styles.boldText}>Software Development Intern</strong> <br />
+                        
+                    </div>
+                    <div style={styles.item}>
+                        <strong style={styles.boldText}>EinSicht Technologies</strong> - January 2024 to February 2024 <br />
+                        Hyderabad
+                    </div>
+                    <div style={styles.item}>
+                        - Worked as SDE <br />
+                        - Developed a Web Application using React Js<br />
+                        -After the completion of the project in React Js then used React Native to convert the web application into a mobile application.
+                    </div>
+                </div>
             </div>
 
             
+
+
+            
+
+            
         </ThemeProvider>
+
+        
     );
 };
 
